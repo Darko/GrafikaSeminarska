@@ -1,3 +1,8 @@
+-- Avtor: Darko Efremov
+-- Email: darko.101735@student.ugd.edu.mk
+-- Github: github.com/darko
+-- Github Repo Za igrata: https://github.com/Darko/GrafikaSeminarska
+
 love.graphics.setDefaultFilter('nearest', 'nearest')
 
 require "game"
